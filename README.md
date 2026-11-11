@@ -42,7 +42,11 @@ An agent that works in a project folder with the model you pick: it reads, edits
 
 ## Download
 
-Coming soon. The first Mac build (Apple Silicon, macOS 11 or later) will be posted on this repo's [Releases](https://github.com/abhivirchaudhary/halter-app/releases) page.
+**[Download Halter for macOS](https://github.com/abhivirchaudhary/halter-app/releases/latest)** — Apple Silicon, macOS 11 or later.
+
+This is a free build and is not yet notarized, so the first time you open it, right-click **Halter.app → Open** and confirm (or allow it under System Settings → Privacy & Security). After that it opens normally.
+
+Every build is on the [Releases](https://github.com/abhivirchaudhary/halter-app/releases) page.
 
 ## About this repo
 
